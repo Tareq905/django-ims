@@ -9,7 +9,7 @@
 
 <h4> pip install -r requirements.txt </h4>
 <h4> python manage.py migrate </h4>
-<h4> python manage.py runserve </h4>
+<h4> python manage.py runserver </h4>
 
 <h5> To log into the project, first create your own super user by typing the command in your command prompt - "python manage.py createsuperuser" . Then change the password and create a new one. </h5>
 
